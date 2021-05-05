@@ -19,7 +19,7 @@ Examples: the first values of the Fibonacci sequence are 0, 1, 1, 2, 3, 5, 8, 13
 #### Other considerations :
 ##### Run the mini-app
 Once you have clone this repository:
-- You should install all the dependencies from the package.json
+- You should install all the dependencies from the package.json with `npm install`
 - You should open the repository with your code editor and run in the terminal the next code: 
 `npm run dev`
 this will call nodemon and execute the app, and it update it each time you send it data with each POST call throught Postman
