@@ -23,3 +23,13 @@ Once you have clone this repository:
 - You should open the repository with your code editor and run in the terminal the next code: 
 `npm run dev`
 this will call nodemon and execute the app, and it update it each time you send it data with each POST call throught Postman
+##### When send the data throught Postman
+- Make sure the method is "POST"
+- The url is: http://localhost:3000/api/fibonacci
+- The header has Content-Type: application/json
+- In the body you should select the "raw" option and write down :
+{
+    "index": 4
+}
+It's important the key that you will send it's called: "index"
+Right in the below window you will get the response from the API REST (the fibonacci number corresponding to the index that you send)
