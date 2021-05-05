@@ -6,7 +6,7 @@ Examples: the first values of the Fibonacci sequence are 0, 1, 1, 2, 3, 5, 8, 13
 
 #### Technical decisions that I made:
 - To solve this problem, I first chosed the technology i thought would be faster to develop this mini-challege.
-- I chosed NodeJs with NextJS
+- I chosed NodeJs with Express
 - I used PostMan to check the POST request to my App and the responses 
 
 #### What optimizations I could add in the future to improve upon my initial solution:
