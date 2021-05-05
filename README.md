@@ -14,6 +14,7 @@ Examples: the first values of the Fibonacci sequence are 0, 1, 1, 2, 3, 5, 8, 13
 - I think i could implement some test cases to know where's brocken the app and develop faster
 - I think i could show the result using Async/Await functions in the client side
 - I think i could create an SPA to make it visualizing attractive
+- I think i could show some error messages  in case the user provide some bad requests
 
 
 #### Other considerations :
